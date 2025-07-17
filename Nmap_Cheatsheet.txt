@@ -1,0 +1,3 @@
+# Nmap Cheatsheet
+nmap -sS -Pn -T4 -p- 192.168.1.1
+nmap -sV -sC -oN output.txt 192.168.1.1
