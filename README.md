@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/andre2023-pt/andre2023-pt/main/Ban1.png" alt="Banner" style="width:100%; border-radius:10px;"/>
+<img src="https://raw.githubusercontent.com/andre2023-pt/andre2023-pt/main/ciber.png" alt="Banner" style="width:100%; border-radius:10px;"/>
 
 <h1 align="center">🛡️ Cibersegurança e Defesa de Redes</h1>
 
